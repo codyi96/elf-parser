@@ -1,6 +1,6 @@
 {
   "name": "elf-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cli tool for parsing elf file. (such as .so file)🧤 ",
   "bin": {
     "elf": "index.js"
