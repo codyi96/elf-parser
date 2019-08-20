@@ -10,5 +10,19 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^8.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyi96/elf-parser.git"
+  },
+  "keywords": [
+    "elf",
+    "parser",
+    "so"
+  ],
+  "bugs": {
+    "url": "https://github.com/codyi96/elf-parser/issues"
+  },
+  "homepage": "https://github.com/codyi96/elf-parser#readme"
 }
