@@ -1,0 +1,14 @@
+{
+  "name": "elf-parser",
+  "version": "1.0.0",
+  "description": "A cli tool for parsing elf file. (such as .so file)🧤 ",
+  "bin": {
+    "elf": "index.js"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
