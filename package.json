@@ -6,7 +6,7 @@
     "elf": "index.js"
   },
   "scripts": {},
-  "author": "",
+  "author": "codyi96",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^8.1.0"
